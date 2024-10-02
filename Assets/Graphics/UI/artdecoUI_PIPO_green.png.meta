@@ -24,7 +24,6 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
-  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -82,7 +81,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -168,7 +167,7 @@ TextureImporter:
         height: 185
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 48, y: 48, z: 48, w: 47}
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -441,25 +440,6 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable:
-      artdecoUI_PIPO_green_8: 1990043730
-      artdecoUI_PIPO_green_12: -2135679727
-      artdecoUI_PIPO_green_5: 841295948
-      artdecoUI_PIPO_green_13: 475709683
-      artdecoUI_PIPO_green_3: 251101110
-      artdecoUI_PIPO_green_7: 1548173783
-      artdecoUI_PIPO_green_6: -732160097
-      artdecoUI_PIPO_green_11: -879444615
-      artdecoUI_PIPO_green_17: 507719018
-      artdecoUI_PIPO_green_14: 318874076
-      artdecoUI_PIPO_green_15: 1273952210
-      artdecoUI_PIPO_green_4: -1092069167
-      artdecoUI_PIPO_green_0: 2124243686
-      artdecoUI_PIPO_green_2: 1396786153
-      artdecoUI_PIPO_green_10: -497146452
-      artdecoUI_PIPO_green_1: 2000374667
-      artdecoUI_PIPO_green_9: 104943260
-      artdecoUI_PIPO_green_16: 728533083
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00d1ce7e0a2ba7c4cb810c5185d46ad0, type: 3}
+  m_Name: Amulet of God
+  m_EditorClassIdentifier: 
+  itemType: 1
+  itemName: Amulet of God
+  itemIcon: {fileID: 3126629624396214699, guid: a9ca9a41598dd2e44b125928045c518f, type: 3}
+  itemEffectDescription: GREAT CHINESE COMEDIANS HERE!!! Get your daily dose of laughter
+    and keep the doctor away! Make sure to FOLLOW to receive the videos in your feed!
+  dropChance: 60
+  itemCooldown: 0
+  equipmengtType: 2
+  itemEffects:
+  - {fileID: 11400000, guid: 21abd2783cb365c4e97fbafe6b34db16, type: 2}
+  strength: 0
+  agility: 0
+  intelligence: 0
+  vitality: 0
+  damage: 0
+  critPower: 0
+  critChance: 0
+  maxHealth: 20
+  armor: 0
+  evasion: 0
+  magicResistence: 15
+  fireDamage: 0
+  iceDamage: 0
+  lightingDamage: 10
+  requiredMaterials: []
